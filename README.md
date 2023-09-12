@@ -1,8 +1,7 @@
 ### Hello! My Name is Melissa Cisneros.
 
-💬 Ask me about SAP Finance/Budgets
-
-🔭 I’m currently working on HRTS Phase 1B
+- 💬 Ask me about SAP Finance/Budgets
+- 🔭 I’m currently working on HRTS Phase 1B
 
 <!--
 **mcsnrs/mcsnrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
