@@ -1,4 +1,4 @@
-### Hi there my name is Melissa Cisneros👋
+### Hello! My Name is Melissa Cisneros.
 
 <!--
 **mcsnrs/mcsnrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
